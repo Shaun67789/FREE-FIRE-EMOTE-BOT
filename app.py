@@ -592,7 +592,7 @@ async def MaiiiinE():
     global loop, key, iv, region, BOT_UID
 
     # BOT LOGIN UID
-    BOT_UID = int('4299920683')  # <-- FIXED BOT UID
+    BOT_UID = int('14285639115')  # <-- FIXED BOT UID
 
     Uid, Pw = '4375575212', '75C23216AA6EDF128A4E784893F25D145177EC1C0B38AADECD3ACB4ECAE93CDF'
 
