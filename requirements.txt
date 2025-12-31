@@ -10,4 +10,4 @@ pycryptodome
 protobuf
 protobuf-decoder
 cfonts
-cf Babel
+Babel
