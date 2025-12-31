@@ -7,7 +7,6 @@ psutil
 pytz
 pyjwt
 pycryptodome
-protobuf
+protobuf==4.21.0
 protobuf-decoder
 cfonts
-Babel
